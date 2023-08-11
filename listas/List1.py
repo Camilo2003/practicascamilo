@@ -17,3 +17,4 @@ for i in lista:
     print(i**2,end="\t")
     print(i**3)
 
+print("Nuevo cambio")
